@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Portugal/Eduardo/Portero/27
+Portugal/Bruno Alves/Defensa/28
+Portugal/Paulo Ferreira/Defensa/31
+Portugal/Rolando/Defensa/24
+Portugal/Duda/Defensa/29
+Portugal/Ricardo Carvalho/Defensa/32
+Portugal/Cristiano Ronaldo/Delantero/25
+Portugal/Pedro Mendes/Centrocampista/31
+Portugal/Liedson/Delantero/32
+Portugal/Danny/Delantero/26
+Portugal/Simao/Delantero/30
+Portugal/Beto/Portero/28
+Portugal/Miguel/Defensa/30
+Portugal/Miguel Veloso/Centrocampista/24
+Portugal/Pepe/Centrocampista/27
+Portugal/Raul Meireles/Centrocampista/27
+Portugal/Nani/Delantero/23
+Portugal/Hugo Almeida/Delantero/26
+Portugal/Tiago/Centrocampista/29
+Portugal/Deco/Centrocampista/32
+Portugal/Ricardo Costa/Defensa/29
+Portugal/Daniel Fernandes/Portero/26
+Portugal/Fabio Coentrao/Defensa/22

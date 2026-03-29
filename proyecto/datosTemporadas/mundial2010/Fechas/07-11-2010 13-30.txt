@@ -1,0 +1,52 @@
+Maarten Stekelenburg
+Gregory Van Der Wiel
+John Heitinga
+Joris Mathijsen
+Giovanni Van Bronckhorst
+Mark Van Bommel
+Nigel De Jong
+Wesley Sneijder
+Dirk Kuyt
+Robin Van Persie
+Arjen Robben
+Edson Braafheid
+Eljero Elia
+Rafael Van Der Vaart
+Iker Casillas
+Gerard Pique
+Carles Puyol
+Joan Capdevila
+Sergio Ramos
+Andres Iniesta
+Xavi Hernandez
+Xabi Alonso
+Sergio Busquets
+David Villa
+Pedro
+Fernando Torres
+Cesc Fabregas
+Jesus Navas
+*
+07/11/2010 13:30-120-< Países Bajos:0 vs España:1 >
+Minuto:Acción:Jugador(es):Equipo
+14:Amarilla:Robin Van Persie:Países Bajos
+16:Amarilla:Carles Puyol:España
+21:Amarilla:Mark Van Bommel:Países Bajos
+22:Amarilla:Sergio Ramos:España
+27:Amarilla:Nigel De Jong:Países Bajos
+53:Amarilla:Giovanni Van Bronckhorst:Países Bajos
+56:Amarilla:John Heitinga:Países Bajos
+59:Sustitución:Jesus Navas,Pedro:España
+66:Amarilla:Joan Capdevila:España
+70:Sustitución:Eljero Elia,Dirk Kuyt:Países Bajos
+83:Amarilla:Arjen Robben:Países Bajos
+86:Sustitución:Cesc Fabregas,Xabi Alonso:España
+98:Sustitución:Rafael Van Der Vaart,Nigel De Jong:Países Bajos
+104:Sustitución:Edson Braafheid,Giovanni Van Bronckhorst:Países Bajos
+105:Sustitución:Fernando Torres,David Villa:España
+108:Amarilla:John Heitinga:Países Bajos
+110:Amarilla:Gregory Van Der Wiel:Países Bajos
+115:Gol:Andres Iniesta:España
+116:Amarilla:Joris Mathijsen:Países Bajos
+117:Amarilla:Andres Iniesta:España
+120:Amarilla:Xavi Hernandez:España

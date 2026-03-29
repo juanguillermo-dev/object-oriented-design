@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Países Bajos/Maarten Stekelenburg/Portero/300
+Países Bajos/Gregory van der Wiel/Defensa/300
+Países Bajos/John Heitinga/Defensa/300
+Países Bajos/Joris Mathijsen/Defensa/300
+Países Bajos/Giovanni van Bronckhorst/Defensa/300
+Países Bajos/Mark van Bommel/Centrocampista/300
+Países Bajos/Dirk Kuyt/Delantero/300
+Países Bajos/Nigel de Jong/Centrocampista/300
+Países Bajos/Robin van Persie/Delantero/300
+Países Bajos/Wesley Sneijder/Centrocampista/300
+Países Bajos/Arjen Robben/Delantero/300
+Países Bajos/Khalid Boulahrouz/Defensa/300
+Países Bajos/Andre Ooijer/Defensa/300
+Países Bajos/Demy de Zeeuw/Centrocampista/300
+Países Bajos/Edson Braafheid/Defensa/300
+Países Bajos/Michel Vorm/Portero/300
+Países Bajos/Eljero Elia/Delantero/300
+Países Bajos/Stijn Schaars/Centrocampista/300
+Países Bajos/Ryan Babel/Delantero/300
+Países Bajos/Ibrahim Afellay/Centrocampista/300
+Países Bajos/Klaas-Jan Huntelaar/Delantero/300
+Países Bajos/Sander Boschker/Portero/300
+Países Bajos/Rafael van der Vaart/Centrocampista/300

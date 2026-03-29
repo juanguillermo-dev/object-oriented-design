@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Portugal/Eduardo/Portero/100
+Portugal/Bruno Alves/Defensa/100
+Portugal/Paulo Ferreira/Defensa/100
+Portugal/Rolando/Defensa/100
+Portugal/Duda/Defensa/100
+Portugal/Ricardo Carvalho/Defensa/100
+Portugal/Cristiano Ronaldo/Delantero/100
+Portugal/Pedro Mendes/Centrocampista/100
+Portugal/Liedson/Delantero/100
+Portugal/Danny/Delantero/100
+Portugal/Simao/Delantero/100
+Portugal/Beto/Portero/100
+Portugal/Miguel/Defensa/100
+Portugal/Miguel Veloso/Centrocampista/100
+Portugal/Pepe/Centrocampista/100
+Portugal/Raul Meireles/Centrocampista/100
+Portugal/Nani/Delantero/100
+Portugal/Hugo Almeida/Delantero/100
+Portugal/Tiago/Centrocampista/100
+Portugal/Deco/Centrocampista/100
+Portugal/Ricardo Costa/Defensa/100
+Portugal/Daniel Fernandes/Portero/100
+Portugal/Fabio Coentrao/Defensa/100

@@ -1,0 +1,53 @@
+Fernando Muslera
+Diego Lugano
+Jorge Fucile
+Mauricio Victorino
+Maximiliano Pereira
+Diego Perez
+Egidio Arevalo
+Alvaro Fernandez
+Edinson Cavani
+Luis Suarez
+Diego Forlan
+Sebastian Abreu
+Nicolas Lodeiro
+Andres Scotti
+Richard Kingson
+Hans Sarpei
+John Pantsil
+John Mensah
+Samuel Inkoom
+Isaac Vorsah
+Anthony Annan
+Sulley Muntari
+Kwadwo Asamoah
+Asamoah Gyan
+Kevin-Prince Boateng
+Stephen Appiah
+Dominic Adiyiah
+*
+07/02/2010 13:30-120-< Uruguay:1 vs Ghana:1 >
+Minuto:Acción:Jugador(es):Equipo
+19:Amarilla:Jorge Fucile:Uruguay
+37:Sustitución:Andres Scotti,Diego Lugano:Uruguay
+45:Sustitución:Nicolas Lodeiro,Alvaro Fernandez:Uruguay
+46:Gol:Sulley Muntari:Ghana
+47:Amarilla:Egidio Arevalo:Uruguay
+53:Amarilla:John Pantsil:Ghana
+54:Gol:Diego Forlan:Uruguay
+58:Amarilla:Diego Perez:Uruguay
+73:Sustitución:Stephen Appiah,Samuel Inkoom:Ghana
+75:Sustitución:Sebastian Abreu,Edinson Cavani:Uruguay
+76:Amarilla:Hans Sarpei:Ghana
+87:Sustitución:Dominic Adiyiah,Sulley Muntari:Ghana
+92:Amarilla:John Mensah:Ghana
+120:Penal:Diego Forlan:Uruguay
+120:Penal:Asamoah Gyan:Ghana
+120:Penal:Mauricio Victorino:Uruguay
+120:Penal:Stephen Appiah:Ghana
+120:Penal:Andres Scotti:Uruguay
+120:Fallado:John Mensah:Ghana
+120:Fallado:Maximiliano Pereira:Uruguay
+120:Fallado:Dominic Adiyiah:Ghana
+120:Penal:Sebastian Abreu:Uruguay
+120:Roja:Luis Suarez:Uruguay

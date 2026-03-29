@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+México/Oscar Perez/Portero/37
+México/Francisco Rodriguez/Defensa/28
+México/Carlos Salcido/Defensa/30
+México/Rafael Marquez/Defensa/31
+México/Ricardo Osorio/Defensa/30
+México/Gerardo Torrado/Centrocampista/31
+México/Pablo Barrera/Delantero/22
+México/Israel Castro/Centrocampista/29
+México/Guillermo Franco/Delantero/33
+México/Cuauhtemoc Blanco/Delantero/37
+México/Carlos Vela/Delantero/21
+México/Paul Aguilar/Defensa/24
+México/Guillermo Ochoa/Portero/24
+México/Javier Hernandez/Delantero/22
+México/Hector Moreno/Defensa/22
+México/Efrain Juarez/Defensa/22
+México/Giovani dos Santos/Delantero/21
+México/Andres Guardado/Centrocampista/23
+México/Jonny Magallon/Defensa/28
+México/Jorge Torres/Centrocampista/22
+México/Adolfo Bautista/Delantero/31
+México/Alberto Medina/Delantero/27
+México/Luis Michel/Portero/30

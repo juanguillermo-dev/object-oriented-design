@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Ghana/Daniel Agyei/Portero/200
+Ghana/Hans Sarpei/Defensa/200
+Ghana/Asamoah Gyan/Delantero/200
+Ghana/John Paintsil/Defensa/200
+Ghana/John Mensah/Defensa/200
+Ghana/Anthony Annan/Centrocampista/200
+Ghana/Samuel Inkoom/Defensa/200
+Ghana/Jonathan Mensah/Defensa/200
+Ghana/Derek Boateng/Centrocampista/200
+Ghana/Stephen Appiah/Centrocampista/200
+Ghana/Sulley Muntari/Centrocampista/200
+Ghana/Prince Tagoe/Delantero/200
+Ghana/Andre Ayew/Centrocampista/200
+Ghana/Matthew Amoah/Delantero/200
+Ghana/Isaac Vorsah/Defensa/200
+Ghana/Stephen Ahorlu/Portero/200
+Ghana/Ibrahim Ayew/Defensa/200
+Ghana/Dominic Adiyiah/Delantero/200
+Ghana/Lee Addy/Defensa/200
+Ghana/Quincy Owusu-Abeyie/Delantero/200
+Ghana/Kwadwo Asamoah/Centrocampista/200
+Ghana/Richard Kingson/Portero/200
+Ghana/Kevin-Prince Boateng/Delantero/200

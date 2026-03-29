@@ -1,0 +1,46 @@
+Julio Cesar,
+Maicon,
+Lucio,
+Juan,
+Michel Bastos,
+Dani Alves,
+Gilberto Silva,
+Kaka,
+Ramires,
+Luis Fabiano,
+Robinho,
+Gilberto Melo,
+Kleberson,
+Nilmar,
+Claudio Bravo,
+Ismael Fuentes,
+Mauricio Isla,
+Pablo Contreras,
+Gonzalo Jara,
+Carlos Carmona,
+Arturo Vidal,
+Alexis Sanchez,
+Humberto Suazo,
+Mark Gonzalez,
+Jean Beausejour,
+Jorge Valdivia,
+Rodrigo Millar,
+Rodrigo Tello,
+*
+____________________________________________________________________________________________________
+06/28/2010 13:30 < Brasil:3 vs Chile:0 >
+Minuto:Acción:Jugador(es):Equipo
+29:Amarilla:Kaka:Brasil
+34:Gol:Juan:Brasil
+37:Gol:Luis Fabiano:Brasil
+45:Sustitución:Rodrigo Tello,Pablo Contreras:Chile
+46:Amarilla:Arturo Vidal:Chile
+58:Gol:Robinho:Brasil
+61:Sustitución:Rodrigo Millar,Mauricio Isla:Chile
+67:Amarilla:Ismael Fuentes:Chile
+71:Amarilla:Ramires:Brasil
+75:Sustitución:Nilmar,Luis Fabiano:Brasil
+79:Amarilla:Rodrigo Millar:Chile
+80:Sustitución:Kleberson,Kaka:Brasil
+84:Sustitución:Gilberto Melo,Robinho,:Brasil
+____________________________________________________________________________________________________

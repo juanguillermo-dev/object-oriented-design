@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Ghana/Daniel Agyei/Portero/20
+Ghana/Hans Sarpei/Defensa/33
+Ghana/Asamoah Gyan/Delantero/24
+Ghana/John Paintsil/Defensa/28
+Ghana/John Mensah/Defensa/27
+Ghana/Anthony Annan/Centrocampista/23
+Ghana/Samuel Inkoom/Defensa/21
+Ghana/Jonathan Mensah/Defensa/19
+Ghana/Derek Boateng/Centrocampista/27
+Ghana/Stephen Appiah/Centrocampista/29
+Ghana/Sulley Muntari/Centrocampista/25
+Ghana/Prince Tagoe/Delantero/23
+Ghana/Andre Ayew/Centrocampista/20
+Ghana/Matthew Amoah/Delantero/29
+Ghana/Isaac Vorsah/Defensa/21
+Ghana/Stephen Ahorlu/Portero/21
+Ghana/Ibrahim Ayew/Defensa/22
+Ghana/Dominic Adiyiah/Delantero/20
+Ghana/Lee Addy/Defensa/24
+Ghana/Quincy Owusu-Abeyie/Delantero/24
+Ghana/Kwadwo Asamoah/Centrocampista/21
+Ghana/Richard Kingson/Portero/31
+Ghana/Kevin-Prince Boateng/Delantero/23

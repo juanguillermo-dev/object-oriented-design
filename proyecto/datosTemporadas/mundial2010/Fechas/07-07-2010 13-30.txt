@@ -1,0 +1,38 @@
+Manuel Neuer
+Arne Friedrich
+Philipp Lahm
+Per Mertesacker
+Jerome Boateng
+Sami Khedira
+Bastian Schweinsteiger
+Mesut Ozil
+Piotr Trochowski
+Lukas Podolski
+Miroslav Klose
+Marcell Jansen
+Toni Kroos
+Mario Gomez
+Iker Casillas
+Gerard Pique
+Carles Puyol
+Joan Capdevila
+Sergio Ramos
+Andres Iniesta
+Xavi Hernandez
+Xabi Alonso
+Sergio Busquets
+David Villa
+Pedro
+Carlos Marchena
+Fernando Torres
+David Silva
+*
+07/07/2010 13:30-92-< Alemania:0 vs España:1 >
+Minuto:Acción:Jugador(es):Equipo
+51:Sustitución:Marcell Jansen,Jerome Boateng:Alemania
+61:Sustitución:Toni Kroos,Piotr Trochowski:Alemania
+72:Gol:Carles Puyol:España
+80:Sustitución:Mario Gomez,Sami Khedira:Alemania
+80:Sustitución:Fernando Torres,David Villa:España
+85:Sustitución:David Silva,Pedro:España
+92:Sustitución:Carlos Marchena,Xabi Alonso:España

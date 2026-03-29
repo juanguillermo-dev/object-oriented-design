@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Japón/Seigo Narazaki/Portero/100
+Japón/Yuki Abe/Centrocampista/100
+Japón/Yuichi Komano/Defensa/100
+Japón/Marcus Tulio Tanaka/Defensa/100
+Japón/Yuto Nagatomo/Defensa/100
+Japón/Atsuto Uchida/Defensa/100
+Japón/Yasuhito Endo/Centrocampista/100
+Japón/Daisuke Matsui/Centrocampista/100
+Japón/Shinji Okazaki/Delantero/100
+Japón/Shunsuke Nakamura/Centrocampista/100
+Japón/Keiji Tamada/Delantero/100
+Japón/Kisho Yano/Delantero/100
+Japón/Daiki Iwamasa/Defensa/100
+Japón/Kengo Nakamura/Centrocampista/100
+Japón/Yasuyuki Konno/Defensa/100
+Japón/Yoshito Okubo/Delantero/100
+Japón/Makoto Hasebe/Centrocampista/100
+Japón/Keisuke Honda/Centrocampista/100
+Japón/Takayuki Morimoto/Delantero/100
+Japón/Junichi Inamoto/Centrocampista/100
+Japón/Eiji Kawashima/Portero/100
+Japón/Yuji Nakazawa/Defensa/100
+Japón/Yoshikatsu Kawaguchi/Portero/100

@@ -1,0 +1,42 @@
+Sergio Romero,
+Martin Demichelis,
+Nicolas Burdisso,
+Gabriel Heinze,
+Nicolas Otamendi,
+Angel Di Maria,
+Javier Mascherano,
+Maxi Rodriguez,
+Gonzalo Higuain,
+Lionel Messi,
+Carlos Tevez,
+Oscar Perez,
+Francisco Rodriguez,
+Carlos Salcido,
+Rafael Marquez,
+Ricardo Osorio,
+Efrain Juarez,
+Gerardo Torrado,
+Andres Guardado,
+Javier Hernandez,
+Giovani Dos Santos,
+Adolfo Bautista,
+Juan Veron,
+Jonas Gutierrez,
+Javier Pastore,
+Pablo Barrera,
+Guillermo Franco
+*
+____________________________________________________________________________________________________
+06/27/2010 13:30 < Argentina:3 vs México:1 >
+Minuto:Acción:Jugador(es):Equipo
+25:Gol:Carlos Tevez:Argentina
+27:Amarilla:Rafael Marquez:México
+32:Gol:Gonzalo Higuain:Argentina
+45:Sustitución:Pablo Barrera,Adolfo Bautista:México
+51:Gol:Carlos Tevez:Argentina
+60:Sustitución:Guillermo Franco,Andres Guardado:México
+68:Sustitución:Juan Veron,Carlos Tevez:Argentina
+70:Gol:Javier Hernandez:México
+78:Sustitución:Jonas Gutierrez,Angel Di Maria:Argentina
+86:Sustitución:Javier Pastore,Maxi Rodriguez:Argentina
+____________________________________________________________________________________________________

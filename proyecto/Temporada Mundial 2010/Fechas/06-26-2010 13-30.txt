@@ -1,0 +1,48 @@
+Tim Howard,
+Carlos Bocanegra,
+Steve Cherundolo,
+Jonathan Bornstein,
+Jay DeMerit,
+Michael Bradley,
+Clint Dempsey,
+Landon Donovan,
+Ricardo Clark,
+Jozy Altidore,
+Robbie Findley,
+Herculez Gomez,
+Maurice Edu,
+Benny Feilhaber,
+Marcus Hahnemann,
+Richard Kingson,
+Hans Sarpei,
+John Pantsil,
+John Mensah,
+Samuel Inkoom,
+Jonathan Mensah,
+Anthony Annan,
+Andre Ayew,
+Kwadwo Asamoah,
+Asamoah Gyan,
+Kevin-Prince Boateng,
+Stephen Appiah,
+Sulley Muntari,
+Lee Addy
+*
+____________________________________________________________________________________________________
+06/26/2010 13:30 < Estados Unidos:1 vs Ghana:2 >
+Minuto:Acción:Jugador(es):Equipo
+4:Gol:Kevin-Prince Boateng:Ghana
+6:Amarilla:Ricardo Clark:Estados Unidos
+17:Amarilla:Steve Cherundolo:Estados Unidos
+30:Sustitución:Maurice Edu,Ricardo Clark:Estados Unidos
+45:Sustitución:Benny Feilhaber, Robbie Findley:Estados Unidos
+60:Amarilla:Jonathan Mensah:Ghana
+61:Gol:Landon Donovan:Estados Unidos
+67:Amarilla:Carlos Bocanegra:Estados Unidos
+72:Sustitución:Lee Addy,Hans Sarpei:Ghana
+77:Sustitución:Stephen Appiah,Kevin-Prince Boateng:Ghana
+90:Sustitución:Herculez Gomez,Jozy Altidore:Estados Unidos
+91:Amarilla:Andre Ayew:Ghana
+92:Gol:Asamoah Gyan:Ghana
+112:Sustitución:Sulley Muntari,Samuel Inkoom:Ghana
+____________________________________________________________________________________________________

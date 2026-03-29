@@ -1,0 +1,43 @@
+Iker Casillas,
+Gerard Pique,
+Carles Puyol,
+Joan Capdevila,
+Sergio Ramos,
+Andres Iniesta,
+Xavi Hernandez,
+Xabi Alonso,
+Sergio Busquets,
+David Villa,
+Fernando Torres,
+Carlos Marchena,
+Pedro,
+Fernando Llorente,
+Eduardo,
+Bruno Alves,
+Ricardo Carvalho,
+Ricardo Costa,
+Fabio Coentrao,
+Pepe,
+Raul Meireles,
+Tiago,
+Cristiano Ronaldo,
+Simao,
+Hugo Almeida,
+Pedro Mendes,
+Liedson,
+Danny
+*
+____________________________________________________________________________________________________
+06/29/2010 13:30 < España:1 vs Portugal:0 >
+Minuto:Acción:Jugador(es):Equipo
+57:Sustitución:Danny,Hugo Almeida:Portugal
+57:Sustitución:Fernando Llorente,Fernando Torres:España
+62:Gol:David Villa:España
+71:Sustitución:Pedro Mendes,Pepe:Portugal
+71:Sustitución:Liedson,Simao:Portugal
+73:Amarilla:Xabi Alonso:España
+79:Amarilla:Tiago:Portugal
+87:Sustitución:Pedro,David Villa:España
+88:Roja:Ricardo Costa:Portugal
+92:Sustitución:Xabi AlonsoCarlos Marchena:España
+____________________________________________________________________________________________________

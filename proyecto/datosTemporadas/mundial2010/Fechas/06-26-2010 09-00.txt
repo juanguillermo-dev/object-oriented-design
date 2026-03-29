@@ -1,0 +1,41 @@
+Fernando Muslera
+Diego Lugano
+Diego Godin
+Jorge Fucile
+Maximiliano Pereira
+Alvaro Pereira
+Diego Perez
+Egidio Arevalo
+Edinson Cavani
+Luis Suarez
+Diego Forlan
+Mauricio Victorino
+Nicolas Lodeiro
+Alvaro Fernandez
+Jung Sung-Ryong
+Cho Yong-Hyung
+Lee Young-Pyo
+Lee Jung-Soo
+Cha Du-Ri
+Park Ji-Sung
+Kim Jung-Woo
+Kim Jae-Sung
+Ki Sung-Yueng
+Lee Chung-Yong
+Park Chu-Young
+Yeom Ki-Hun
+Lee Dong-Gook
+*
+06/26/2010 09:00-84-< Uruguay:2 vs Corea del Sur:1 >
+Minuto:Acción:Jugador(es):Equipo
+7:Gol:Luis Suarez:Uruguay
+37:Amarilla:Kim Jung-Woo:Corea del Sur
+45:Sustitución:Mauricio Victorino,Diego Godin:Uruguay
+60:Sustitución:Lee Dong-Gook,Kim Jae-Sung:Corea del Sur
+67:Gol:Lee Chung-Yong:Corea del Sur
+68:Amarilla:Cha Du-Ri:Corea del Sur
+73:Sustitución:Nicolas Lodeiro,Alvaro Pereira:Uruguay
+79:Gol:Luis Suarez:Uruguay
+82:Amarilla:Cho Yong-Hyung:Corea del Sur
+83:Sustitución:Alvaro Fernandez,Luis Suarez:Uruguay
+84:Sustitución:Yeom Ki-Hun,Ki Sung-Yueng:Corea del Sur

@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Alemania/Manuel Neuer/Portero/24
+Alemania/Marcell Jansen/Centrocampista/24
+Alemania/Arne Friedrich/Defensa/31
+Alemania/Dennis Aogo/Defensa/23
+Alemania/Serdar Taşçı/Defensa/23
+Alemania/Sami Khedira/Centrocampista/23
+Alemania/Bastian Schweinsteiger/Centrocampista/25
+Alemania/Mesut Ozil/Centrocampista/21
+Alemania/Stefan Kiebling/Delantero/26
+Alemania/Lukas Podolski/Delantero/25
+Alemania/Miroslav Klose/Delantero/31
+Alemania/Tim Wiese/Portero/28
+Alemania/Thomas Muller/Centrocampista/20
+Alemania/Holger Badstuber/Defensa/21
+Alemania/Piotr Trochowski/Centrocampista/26
+Alemania/Philipp Lahm/Defensa/26
+Alemania/Per Mertesacker/Defensa/25
+Alemania/Toni Kroos/Centrocampista/20
+Alemania/Cacau/Delantero/29
+Alemania/Jerome Boateng/Defensa/21
+Alemania/Marko Marin/Centrocampista/21
+Alemania/Hans-Jorg Butt/Portero/36
+Alemania/Mario Gomez/Delantero/24

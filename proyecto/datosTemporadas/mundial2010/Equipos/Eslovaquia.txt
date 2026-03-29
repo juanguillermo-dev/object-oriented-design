@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Eslovaquia/Jan Mucha/Portero/100
+Eslovaquia/Peter Pekarik/Defensa/100
+Eslovaquia/Martin Skrtel/Defensa/100
+Eslovaquia/Marek Cech/Defensa/100
+Eslovaquia/Radoslav Zabavnik/Defensa/100
+Eslovaquia/Zdenko Strba/Centrocampista/100
+Eslovaquia/Vladimir Weiss/Centrocampista/100
+Eslovaquia/Jan Kozak/Centrocampista/100
+Eslovaquia/Stanislav Sestak/Delantero/100
+Eslovaquia/Marek Sapara/Centrocampista/100
+Eslovaquia/Robert Vittek/Delantero/100
+Eslovaquia/Dusan Pernis/Portero/100
+Eslovaquia/Filip Holosko/Delantero/100
+Eslovaquia/Martin Jakubko/Delantero/100
+Eslovaquia/Miroslav Stoch/Centrocampista/100
+Eslovaquia/Jan Durica/Defensa/100
+Eslovaquia/Marek Hamsik/Centrocampista/100
+Eslovaquia/Erik Jendrisek/Delantero/100
+Eslovaquia/Juraj Kucka/Centrocampista/100
+Eslovaquia/Kamil Kopunek/Centrocampista/100
+Eslovaquia/Kornel Salata/Defensa/100
+Eslovaquia/Martin Petras/Defensa/100
+Eslovaquia/Dusan Kuciak/Portero/100

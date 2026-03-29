@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+México/Oscar Perez/Portero/100
+México/Francisco Rodriguez/Defensa/100
+México/Carlos Salcido/Defensa/100
+México/Rafael Marquez/Defensa/100
+México/Ricardo Osorio/Defensa/100
+México/Gerardo Torrado/Centrocampista/100
+México/Pablo Barrera/Delantero/100
+México/Israel Castro/Centrocampista/100
+México/Guillermo Franco/Delantero/100
+México/Cuauhtemoc Blanco/Delantero/100
+México/Carlos Vela/Delantero/100
+México/Paul Aguilar/Defensa/100
+México/Guillermo Ochoa/Portero/100
+México/Javier Hernandez/Delantero/100
+México/Hector Moreno/Defensa/100
+México/Efrain Juarez/Defensa/100
+México/Giovani dos Santos/Delantero/100
+México/Andres Guardado/Centrocampista/100
+México/Jonny Magallon/Defensa/100
+México/Jorge Torres/Centrocampista/100
+México/Adolfo Bautista/Delantero/100
+México/Alberto Medina/Delantero/100
+México/Luis Michel/Portero/100

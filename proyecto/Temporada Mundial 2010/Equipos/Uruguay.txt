@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Uruguay/Fernando Muslera/Portero/23
+Uruguay/Diego Lugano/Defensa/29
+Uruguay/Diego Godin/Defensa/24
+Uruguay/Jorge Fucile/Defensa/25
+Uruguay/Walter Gargano/Centrocampista/25
+Uruguay/Mauricio Victorino/Defensa/27
+Uruguay/Edinson Cavani/Delantero/23
+Uruguay/Sebastian Eguren/Centrocampista/29
+Uruguay/Luis Suarez/Delantero/23
+Uruguay/Diego Forlan/Delantero/31
+Uruguay/Alvaro Pereira/Centrocampista/24
+Uruguay/Juan Castillo/Portero/32
+Uruguay/Sebastian Abreu/Delantero/33
+Uruguay/Nicolas Lodeiro/Centrocampista/21
+Uruguay/Diego Perez/Centrocampista/30
+Uruguay/Maximiliano Pereira/Defensa/25
+Uruguay/Egidio Arevalo Rios/Centrocampista/28
+Uruguay/Ignacio Gonzalez/Centrocampista/28
+Uruguay/Andres Scotti/Defensa/34
+Uruguay/Alvaro Fernandez/Centrocampista/24
+Uruguay/Sebastian Fernandez/Delantero/25
+Uruguay/Martin Caceres/Defensa/23
+Uruguay/Martin Silva/Portero/27

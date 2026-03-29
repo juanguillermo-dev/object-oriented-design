@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Alemania/Manuel Neuer/Portero/300
+Alemania/Marcell Jansen/Centrocampista/300
+Alemania/Arne Friedrich/Defensa/300
+Alemania/Dennis Aogo/Defensa/300
+Alemania/Serdar Taşçı/Defensa/300
+Alemania/Sami Khedira/Centrocampista/300
+Alemania/Bastian Schweinsteiger/Centrocampista/300
+Alemania/Mesut Ozil/Centrocampista/300
+Alemania/Stefan Kiebling/Delantero/300
+Alemania/Lukas Podolski/Delantero/300
+Alemania/Miroslav Klose/Delantero/300
+Alemania/Tim Wiese/Portero/300
+Alemania/Thomas Muller/Centrocampista/300
+Alemania/Holger Badstuber/Defensa/300
+Alemania/Piotr Trochowski/Centrocampista/300
+Alemania/Philipp Lahm/Defensa/300
+Alemania/Per Mertesacker/Defensa/300
+Alemania/Toni Kroos/Centrocampista/300
+Alemania/Cacau/Delantero/300
+Alemania/Jerome Boateng/Defensa/300
+Alemania/Marko Marin/Centrocampista/300
+Alemania/Hans-Jorg Butt/Portero/300
+Alemania/Mario Gomez/Delantero/300

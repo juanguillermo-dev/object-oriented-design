@@ -1,0 +1,45 @@
+Fernando Muslera,
+Diego Godin,
+Mauricio Victorino,
+Maximiliano Pereira,
+Martin Caceres,
+Walter Gargano,
+Alvaro Pereira,
+Diego Perez,
+Egidio Arevalo,
+Edinson Cavani,
+Diego Forlan,
+Sebastian Abreu,
+Sebastián Fernández,
+Maarten Stekelenburg,
+John Heitinga,
+Joris Mathijsen,
+Giovanni Van Bronckhorst,
+Khalid Boulahrouz,
+Mark Van Bommel,
+Wesley Sneijder,
+Demy De Zeeuw,
+Dirk Kuyt,
+Robin Van Persie,
+Arjen Robben,
+Eljero Elia,
+Rafael Van Der Vaart
+*
+____________________________________________________________________________________________________
+07/06/2010 13:30 < Uruguay:2 vs Países Bajos:1 >
+Minuto:Acción:Jugador(es):Equipo
+17:Gol:Giovanni Van Bronckhorst:Países Bajos
+20:Amarilla:Maximiliano Pereira:Uruguay
+28:Amarilla:Martin Caceres:Uruguay
+28:Amarilla:Wesley Sneijder:Países Bajos
+40:Gol:Diego Forlan:Uruguay
+45:Sustitución:Rafael Van Der Vaart,Demy De Zeeuw:Países Bajos
+69:Gol:Wesley Sneijder:Países Bajos
+72:Gol:Arjen Robben:Países Bajos
+77:Sustitución:Sebastian Abreu,Alvaro Pereira:Uruguay
+77:Amarilla:Khalid Boulahrouz:Países Bajos
+83:Sustitución:Sebastian Fernandez,Diego Forlan:Uruguay
+88:Sustitución:Eljero Elia,Arjen Robben:Países Bajos
+91:Gol:Maximiliano Pereira:Uruguay
+94:Amarilla:Mark Van Bommel:Países Bajos
+____________________________________________________________________________________________________

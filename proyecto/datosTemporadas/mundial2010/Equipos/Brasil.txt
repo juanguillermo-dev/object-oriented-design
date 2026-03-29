@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Brasil/Julio Cesar/Portero/200
+Brasil/Maicon/Defensa/200
+Brasil/Lucio/Defensa/200
+Brasil/Juan/Defensa/200
+Brasil/Felipe Melo/Centrocampista/200
+Brasil/Michel Bastos/Defensa/200
+Brasil/Elano/Centrocampista/200
+Brasil/Gilberto Silva/Centrocampista/200
+Brasil/Luis Fabiano/Delantero/200
+Brasil/Kaka/Centrocampista/200
+Brasil/Robinho/Delantero/200
+Brasil/Gomes/Portero/200
+Brasil/Dani Alves/Defensa/200
+Brasil/Luisao/Defensa/200
+Brasil/Thiago Silva/Defensa/200
+Brasil/Gilberto Melo/Defensa/200
+Brasil/Josue/Centrocampista/200
+Brasil/Ramires/Centrocampista/200
+Brasil/Julio Baptista/Centrocampista/200
+Brasil/Kleberson/Centrocampista/200
+Brasil/Nilmar/Delantero/200
+Brasil/Doni/Portero/200
+Brasil/Grafite/Delantero/200

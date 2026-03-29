@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Estados Unidos/Tim Howard/Portero/31
+Estados Unidos/Jonathan Spector/Defensa/24
+Estados Unidos/Carlos Bocanegra/Defensa/31
+Estados Unidos/Michael Bradley/Centrocampista/22
+Estados Unidos/Oguchi Onyewu/Defensa/28
+Estados Unidos/Steve Cherundolo/Defensa/31
+Estados Unidos/DaMarcus Beasley/Centrocampista/28
+Estados Unidos/Clint Dempsey/Centrocampista/27
+Estados Unidos/Herculez Gomez/Delantero/28
+Estados Unidos/Landon Donovan/Centrocampista/28
+Estados Unidos/Stuart Holden/Centrocampista/24
+Estados Unidos/Jonathan Bornstein/Defensa/25
+Estados Unidos/Ricardo Clark/Centrocampista/27
+Estados Unidos/Edson Buddle/Delantero/29
+Estados Unidos/Jay DeMerit/Defensa/30
+Estados Unidos/Francisco Torres/Centrocampista/22
+Estados Unidos/Jozy Altidore/Delantero/20
+Estados Unidos/Brad Guzan/Portero/25
+Estados Unidos/Maurice Edu/Centrocampista/24
+Estados Unidos/Robbie Findley/Delantero/24
+Estados Unidos/Clarence Goodson/Defensa/28
+Estados Unidos/Benny Feilhaber/Centrocampista/25
+Estados Unidos/Marcus Hahnemann/Portero/37

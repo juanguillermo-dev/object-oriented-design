@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Inglaterra/David James/Portero/39
+Inglaterra/Glen Johnson/Defensa/25
+Inglaterra/Ashley Cole/Defensa/29
+Inglaterra/Steven Gerrard/Centrocampista/30
+Inglaterra/Rio Ferdinand/Defensa/31
+Inglaterra/John Terry/Defensa/29
+Inglaterra/Aaron Lennon/Centrocampista/23
+Inglaterra/Frank Lampard/Centrocampista/31
+Inglaterra/Peter Crouch/Delantero/29
+Inglaterra/Wayne Rooney/Delantero/24
+Inglaterra/Joe Cole/Centrocampista/28
+Inglaterra/Robert Green/Portero/30
+Inglaterra/Stephen Warnock/Defensa/28
+Inglaterra/Gareth Barry/Centrocampista/29
+Inglaterra/Matthew Upson/Defensa/31
+Inglaterra/James Milner/Centrocampista/24
+Inglaterra/Shaun Wright-Phillips/Centrocampista/28
+Inglaterra/Jamie Carragher/Defensa/32
+Inglaterra/Jermain Defoe/Delantero/27
+Inglaterra/Ledley King/Defensa/29
+Inglaterra/Emile Heskey/Delantero/32
+Inglaterra/Michael Carrick/Centrocampista/28
+Inglaterra/Joe Hart/Portero/23

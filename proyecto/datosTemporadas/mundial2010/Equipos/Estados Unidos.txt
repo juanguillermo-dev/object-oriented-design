@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Estados Unidos/Tim Howard/Portero/100
+Estados Unidos/Jonathan Spector/Defensa/100
+Estados Unidos/Carlos Bocanegra/Defensa/100
+Estados Unidos/Michael Bradley/Centrocampista/100
+Estados Unidos/Oguchi Onyewu/Defensa/100
+Estados Unidos/Steve Cherundolo/Defensa/100
+Estados Unidos/DaMarcus Beasley/Centrocampista/100
+Estados Unidos/Clint Dempsey/Centrocampista/100
+Estados Unidos/Herculez Gomez/Delantero/100
+Estados Unidos/Landon Donovan/Centrocampista/100
+Estados Unidos/Stuart Holden/Centrocampista/100
+Estados Unidos/Jonathan Bornstein/Defensa/100
+Estados Unidos/Ricardo Clark/Centrocampista/100
+Estados Unidos/Edson Buddle/Delantero/100
+Estados Unidos/Jay DeMerit/Defensa/100
+Estados Unidos/Francisco Torres/Centrocampista/100
+Estados Unidos/Jozy Altidore/Delantero/100
+Estados Unidos/Brad Guzan/Portero/100
+Estados Unidos/Maurice Edu/Centrocampista/100
+Estados Unidos/Robbie Findley/Delantero/100
+Estados Unidos/Clarence Goodson/Defensa/100
+Estados Unidos/Benny Feilhaber/Centrocampista/100
+Estados Unidos/Marcus Hahnemann/Portero/100

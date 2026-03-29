@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Chile/Claudio Bravo/Portero/27
+Chile/Ismael Fuentes/Defensa/28
+Chile/Waldo Ponce/Defensa/27
+Chile/Mauricio Isla/Defensa/21
+Chile/Pablo Contreras/Defensa/31
+Chile/Carlos Carmona/Centrocampista/23
+Chile/Alexis Sanchez/Delantero/21
+Chile/Arturo Vidal/Centrocampista/23
+Chile/Humberto Suazo/Delantero/29
+Chile/Jorge Valdivia/Centrocampista/26
+Chile/Mark Gonzalez/Delantero/25
+Chile/Miguel Pinto/Portero/26
+Chile/Marco Estrada/Centrocampista/27
+Chile/Matias Fernandez/Centrocampista/24
+Chile/Jean Beausejour/Delantero/26
+Chile/Fabian Orellana/Delantero/24
+Chile/Gary Medel/Defensa/22
+Chile/Gonzalo Jara/Defensa/24
+Chile/Gonzalo Fierro/Centrocampista/27
+Chile/Rodrigo Millar/Centrocampista28
+Chile/Rodrigo Tello/Centrocampista/30
+Chile/Esteban Paredes/Delantero/29
+Chile/Luis Marin/Portero/27

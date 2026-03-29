@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Uruguay/Fernando Muslera/Portero/300
+Uruguay/Diego Lugano/Defensa/300
+Uruguay/Diego Godin/Defensa/300
+Uruguay/Jorge Fucile/Defensa/300
+Uruguay/Walter Gargano/Centrocampista/300
+Uruguay/Mauricio Victorino/Defensa/300
+Uruguay/Edinson Cavani/Delantero/300
+Uruguay/Sebastian Eguren/Centrocampista/300
+Uruguay/Luis Suarez/Delantero/300
+Uruguay/Diego Forlan/Delantero/300
+Uruguay/Alvaro Pereira/Centrocampista/300
+Uruguay/Juan Castillo/Portero/300
+Uruguay/Sebastian Abreu/Delantero/300
+Uruguay/Nicolas Lodeiro/Centrocampista/300
+Uruguay/Diego Perez/Centrocampista/300
+Uruguay/Maximiliano Pereira/Defensa/300
+Uruguay/Egidio Arevalo Rios/Centrocampista/300
+Uruguay/Ignacio Gonzalez/Centrocampista/300
+Uruguay/Andres Scotti/Defensa/300
+Uruguay/Alvaro Fernandez/Centrocampista/300
+Uruguay/Sebastian Fernandez/Delantero/300
+Uruguay/Martin Caceres/Defensa/300
+Uruguay/Martin Silva/Portero/300

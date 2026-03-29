@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+España/Iker Casillas/Portero/29
+España/Raul Albiol/Defensa/24
+España/Gerard Pique/Defensa/23
+España/Carlos Marchena/Defensa/30
+España/Carles Puyol/Defensa/32
+España/Andres Iniesta/Centrocampista/26
+España/David Villa/Delantero/28
+España/Xavi/Centrocampista/30
+España/Fernando Torres/Delantero/26
+España/Cesc Fabregas/Centrocampista/23
+España/Joan Capdevila/Defensa/32
+España/Victor Valdes/Portero/28
+España/Juan Mata/Delantero/22
+España/Xabi Alonso/Centrocampista/28
+España/Sergio Ramos/Defensa/24
+España/Sergio Busquets/Centrocampista/21
+España/Alvaro Arbeloa/Defensa/27
+España/Pedro/Delantero/22
+España/Fernando Llorente/Delantero/25
+España/Javi Martinez/Centrocampista/21
+España/David Silva/Centrocampista/24
+España/Jesus Navas/Delantero/24
+España/Pepe Reina/Portero/27

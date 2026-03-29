@@ -1,0 +1,44 @@
+Justo Villar
+Dario Veron
+Claudio Morel
+Paulo Da Silva
+Antolin Alcaraz
+Edgar Barreto
+Jonathan Santanaz
+Victor Caceres
+Cristian Riveros
+Oscar Cardozo
+Nelson Valdez
+Roque Santa Cruz
+Enrique Vera
+Lucas Barrios
+Iker Casillas
+Gerard Pique
+Carles Puyol
+Joan Capdevila
+Sergio Ramos
+Andres Iniesta
+Xavi Hernandez
+Xabi Alonso
+Sergio Busquets
+David Villa
+Fernando Torres
+Carlos Marchena
+Cesc Fabregas
+Pedro
+*
+07/03/2010 13:30-87-< Paraguay:0 vs España:1 >
+Minuto:Acción:Jugador(es):Equipo
+55:Sustitución:Cesc Fabregas,Fernando Torres:España
+56:Amarilla:Gerard Pique:España
+58:Amarilla:Victor Caceres:Paraguay
+59:Amarilla:Antolin Alcaraz:Paraguay
+62:Amarilla:Sergio Busquets:España
+63:Sustitución:Enrique Vera,Edgar Barreto:Paraguay
+70:Amarilla:Claudio Morel:Paraguay
+71:Sustitución:Roque Santa Cruz,Nelson Valdez:Paraguay
+74:Sustitución:Pedro,Xabi Alonso:España
+82:Gol:David Villa:España
+83:Sustitución:Carlos Marchena,Carles Puyol:España
+84:Sustitución:Lucas Barrios,Victor Caceres:Paraguay
+87:Amarilla:Jonathan Santanaz:Paraguay

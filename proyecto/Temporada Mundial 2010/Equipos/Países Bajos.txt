@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Países Bajos/Maarten Stekelenburg/Portero/27
+Países Bajos/Gregory van der Wiel/Defensa/22
+Países Bajos/John Heitinga/Defensa/26
+Países Bajos/Joris Mathijsen/Defensa/30
+Países Bajos/Giovanni van Bronckhorst/Defensa/35
+Países Bajos/Mark van Bommel/Centrocampista/33
+Países Bajos/Dirk Kuyt/Delantero/29
+Países Bajos/Nigel de Jong/Centrocampista/25
+Países Bajos/Robin van Persie/Delantero/26
+Países Bajos/Wesley Sneijder/Centrocampista/25
+Países Bajos/Arjen Robben/Delantero/26
+Países Bajos/Khalid Boulahrouz/Defensa/28
+Países Bajos/Andre Ooijer/Defensa/35
+Países Bajos/Demy de Zeeuw/Centrocampista/27
+Países Bajos/Edson Braafheid/Defensa/27
+Países Bajos/Michel Vorm/Portero/26
+Países Bajos/Eljero Elia/Delantero/23
+Países Bajos/Stijn Schaars/Centrocampista/26
+Países Bajos/Ryan Babel/Delantero/23
+Países Bajos/Ibrahim Afellay/Centrocampista/24
+Países Bajos/Klaas-Jan Huntelaar/Delantero/26
+Países Bajos/Sander Boschker/Portero/39
+Países Bajos/Rafael van der Vaart/Centrocampista/27

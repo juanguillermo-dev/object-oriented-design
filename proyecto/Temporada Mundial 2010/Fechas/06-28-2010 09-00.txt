@@ -1,0 +1,47 @@
+Maarten Stekelenburg,
+Gregory Van Der Wiel,
+John Heitinga,
+Joris Mathijsen,
+Giovanni Van Bronckhorst,
+Mark Van Bommel,
+Nigel De Jong,
+Wesley Sneijder,
+Dirk Kuyt,
+Robin Van Persie,
+Arjen Robben,
+Eljero Elia,
+Ibrahim Afellay,
+Klaas Jan Huntelaar,
+Jan Mucha,
+Peter Pekarik,
+Martin Skrtel,
+Radoslav Zabavnik,
+Jan Durica,
+Vladimir Weiss,
+Miroslav Stoch,
+Marek Hamsik,
+Juraj Kucka,
+Robert Vittek,
+Erik Jendrisek,
+Marek Sapara,
+Martin Jakubko,
+Kamil Kopunek,
+*
+____________________________________________________________________________________________________
+06/28/2010 09:00 < Países Bajos:2 vs Eslovakia:1 >
+Minuto:Acción:Jugador(es):Equipo
+17:Gol:Arjen Robben:Países Bajos
+30:Amarilla:Arjen Robben:Países Bajos
+39:Amarilla:Juraj Kucka:Eslovakia
+70:Sustitución:Eljero Elia,Arjen Robben:Países Bajos
+71:Sustitución:Kamil Kopunek,Erik Jendrisek:Eslovakia
+71:Amarilla:Kamil Kopunek:Eslovakia
+79:Sustitución:Klaas Jan Huntelaar,Robin Van Persie:Países Bajos
+83:Gol:Wesley Sneijder:Países Bajos
+83:Amarilla:Martin Skrtel,:Eslovakia
+86:Sustitución:Marek Sapara,Marek Hamsik:Eslovakia
+87:Sustitución:Martin Jakubko,Radoslav Zabavnik:Eslovakia
+91:Sustitución:Ibrahim Afellay,Wesley Sneijder:Países Bajos
+92:Amarilla:Maarten Stekelenburg:Países Bajos
+93:Penal:Robert Vittek:Eslovekia
+____________________________________________________________________________________________________

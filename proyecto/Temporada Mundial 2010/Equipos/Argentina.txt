@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Argentina/Diego Pozo/Portero/32
+Argentina/Martin Demichelis/Defensa/29
+Argentina/Clemente Rodriguez/Defensa/28
+Argentina/Nicolas Burdisso/Defensa/29
+Argentina/Mario Bolatti/Centrocampista/25
+Argentina/Gabriel Heinze/Defensa/32
+Argentina/Angel Di Maria/Centrocampista/22
+Argentina/Juan Veron/Centrocampista/35
+Argentina/Gonzalo Higuain/Delantero/22
+Argentina/Lionel Messi/Delantero/22
+Argentina/Carlos Tevez/Delantero/26
+Argentina/Ariel Garce/Defensa/30
+Argentina/Walter Samuel/Defensa/32
+Argentina/Javier Mascherano/Centrocampista/25
+Argentina/Nicolas Otamendi/Defensa/22
+Argentina/Sergio Aguero/Delantero/22
+Argentina/Jonas Gutierrez/Centrocampista/26
+Argentina/Martin Palermo/Delantero/36
+Argentina/Diego Milito/Delantero/30
+Argentina/Maximiliano Rodriguez/Centrocampista/29
+Argentina/Mariano Andujar/Portero/26
+Argentina/Sergio Romero/Portero/23
+Argentina/Javier Pastore/Centrocampista/20

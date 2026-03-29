@@ -1,0 +1,51 @@
+Justo Villar
+Claudio Morel
+Paulo Da Silva
+Antolin Alcaraz
+Carlos Bonet
+Enrique Vera
+Cristian Riveros
+Nestor Ortigoza
+Roque Santa Cruz
+Edgar Benitez
+Lucas Barrios
+Oscar Cardozo
+Edgar Barreto
+Nelson Valdez
+Eiji Kawashima
+Yuichi Komano
+Marcus Tulio Tanaka
+Yuto Nagatomo
+Yuji Nakazawa
+Yuki Abe
+Yasuhito Endo
+Daisuke Matsui
+Makoto Hasebe
+Keisuke Honda
+Yoshito Okubo
+Shinji Okazaki
+Keiji Tamada
+Kengo Nakamura
+*
+06/29/2010 09:00-120-< Paraguay:0 vs Japón:0 >
+Minuto:Acción:Jugador(es):Equipo
+57:Amarilla:Daisuke Matsui:Japón
+59:Sustitución:Nelson Valdez,Edgar Benitez:Paraguay
+65:Sustitución:Shinji Okazaki,Daisuke Matsui:Japón
+71:Amarilla:Yuto Nagatomo:Japón
+74:Sustitución:Edgar Barreto,Nestor Ortigoza:Paraguay
+80:Sustitución:Kengo Nakamura,Yuki Abe:Japón
+92:Amarilla:Keisuke Honda:Japón
+93:Sustitución:Oscar Cardozo,Roque Santa Cruz:Paraguay
+105:Sustitución:Keiji Tamada,Yoshito Okubo:Japón
+112:Amarilla:Yasuhito Endo:Japón
+117:Amarilla:Cristian Riveros:Paraguay
+120:Penal:Edgar Barreto:Paraguay
+120:Penal:Yasuhito Endo:Japón
+120:Penal:Lucas Barrios:Paraguay
+120:Penal:Makoto Hasebe:Japón
+120:Penal:Cristian Riveros:Paraguay
+120:Fallado:Yuichi Komano:Japón
+120:Penal:Nelson Valdez:Paraguay
+120:Penal:Keisuke Honda:Japón
+120:Penal:Oscar Cardozo:Paraguay

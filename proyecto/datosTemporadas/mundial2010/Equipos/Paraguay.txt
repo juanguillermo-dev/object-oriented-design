@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Paraguay/Justo Villar/Portero/200
+Paraguay/Dario Veron/Defensa/200
+Paraguay/Claudio Morel/Defensa/200
+Paraguay/Denis Caniza/Defensa/200
+Paraguay/Julio Cesar Cáceres/Defensa/200
+Paraguay/Carlos Bonet/Centrocampista/200
+Paraguay/Oscar Cardozo/Delantero/200
+Paraguay/Edgar Barreto/Centrocampista/200
+Paraguay/Roque Santa Cruz/Delantero/200
+Paraguay/Edgar Benitez/Delantero/200
+Paraguay/Jonathan Santana/Centrocampista/200
+Paraguay/Diego Barreto/Portero/200
+Paraguay/Enrique Vera/Centrocampista/200
+Paraguay/Paulo Da Silva/Defensa/200
+Paraguay/Victor Caceres/Centrocampista/200
+Paraguay/Cristian Riveros/Centrocampista/200
+Paraguay/Aureliano Torres/Defensa/200
+Paraguay/Nelson Valdez/Delantero/200
+Paraguay/Lucas Barrios/Delantero/200
+Paraguay/Nestor Ortigoza/Centrocampista/200
+Paraguay/Antolin Alcaraz/Defensa/200
+Paraguay/Aldo Bobadilla/Portero/200
+Paraguay/Rodolfo Gamarra/Delantero/200

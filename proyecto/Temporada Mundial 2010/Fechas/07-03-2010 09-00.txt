@@ -1,0 +1,44 @@
+Sergio Romero
+Martin Demichelis
+Nicolas Burdisso
+Gabriel Heinze
+Nicolas Otamendi
+Angel Di Maria
+Javier Mascherano
+Maxi Rodriguez
+Gonzalo Higuain
+Lionel Messi
+Carlos Tevez
+Sergio Aguero
+Javier Pastore
+Manuel Neuer
+Arne Friedrich
+Philipp Lahm
+Per Mertesacker
+Jerome Boateng
+Sami Khedira
+Bastian Schweinsteiger
+Mesut Ozil
+Thomas Muller
+Lukas Podolski
+Miroslav Klose
+Marcell Jansen
+Piotr Trochowski
+Toni Kroos
+*
+____________________________________________________________________________________________________
+07/03/2010 09:00 < Argentina:0 vs Alemania:4 >
+Minuto:Acción:Jugador(es):Equipo
+2:Gol:Thomas Muller:Alemania
+10:Amarilla:Nicolas Otamendi:Argentina
+34:Amarilla:Thomas Muller:Alemania
+67:Gol:Miroslav Klose:Alemania
+69:Sustitución:Javier Pastore,Nicolas Otamendi:Argentina
+71:Sustitución:Marcell Jansen,Jerome Boateng:Alemania
+73:Gol:Arne Friedrich:Alemania
+74:Sustitución:Sergio Aguero,Angel Di Maria:Argentina
+76:Sustitución:Toni Kroos,Sami Khedira:Alemania
+79:Amarilla:Javier Mascherano:Argentina
+83:Sustitución:Thomas Muller,Piotr Trochowski:Alemania
+88:Gol:Miroslav Klose:Alemania
+____________________________________________________________________________________________________

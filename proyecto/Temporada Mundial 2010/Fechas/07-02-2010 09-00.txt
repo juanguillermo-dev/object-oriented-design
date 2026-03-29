@@ -1,0 +1,42 @@
+Maarten Stekelenburg,
+Gregory Van Der Wiel,
+John Heitinga,
+Giovanni Van Bronckhorst,
+Andre Ooijer,
+Mark Van Bommel,
+Nigel De Jong,
+Wesley Sneijder,
+Dirk Kuyt,
+Robin Van Persie,
+Arjen Robben,
+Klaas Jan Huntelaar,
+Julio Cesar,
+Maicon,
+Lucio,
+Juan,
+Michel Bastos,
+Dani Alves,
+Felipe Melo,
+Gilberto Silva,
+Kaka,
+Luis Fabiano,
+Robinho,
+Gilberto Melo,
+Nilmar
+*
+____________________________________________________________________________________________________
+07/02/2010 09:00 < Países Bajos:2 vs Brasil:1 >
+Minuto:Acción:Jugador(es):Equipo
+9:Gol:Robinho:Brasil
+13:Amarilla:John Heitinga:Países Bajos
+36:Amarilla:Michel Bastos:Brasil
+46:Amarilla:Gregory Van Der Wiel,:Países Bajos
+52:Gol:Wesley Sneijder:Países Bajos
+61:Sustitución:Gilberto Melo,Michel Bastos:Brasil
+63:Amarilla:Nigel De Jong:Países Bajos
+67:Gol:Wesley Sneijder:Países Bajos
+72:Roja:Felipe Melo:Brasil
+75:Amarillo:Andre Ooijer:Países Bajos
+76:Sustitución:Nilmar,Luis Fabiano:Brasil
+84:Sustitución:Klaas Jan Huntelaar,Robin Van Persie:Países Bajos
+____________________________________________________________________________________________________

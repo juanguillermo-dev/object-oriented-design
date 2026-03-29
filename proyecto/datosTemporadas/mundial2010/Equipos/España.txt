@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+España/Iker Casillas/Portero/300
+España/Raul Albiol/Defensa/300
+España/Gerard Pique/Defensa/300
+España/Carlos Marchena/Defensa/300
+España/Carles Puyol/Defensa/300
+España/Andres Iniesta/Centrocampista/300
+España/David Villa/Delantero/300
+España/Xavi/Centrocampista/300
+España/Fernando Torres/Delantero/300
+España/Cesc Fabregas/Centrocampista/300
+España/Joan Capdevila/Defensa/300
+España/Victor Valdes/Portero/300
+España/Juan Mata/Delantero/300
+España/Xabi Alonso/Centrocampista/300
+España/Sergio Ramos/Defensa/300
+España/Sergio Busquets/Centrocampista/300
+España/Alvaro Arbeloa/Defensa/300
+España/Pedro/Delantero/300
+España/Fernando Llorente/Delantero/300
+España/Javi Martinez/Centrocampista/300
+España/David Silva/Centrocampista/300
+España/Jesus Navas/Delantero/300
+España/Pepe Reina/Portero/300

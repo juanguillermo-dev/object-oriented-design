@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Eslovaquia/Jan Mucha/Portero/27
+Eslovaquia/Peter Pekarik/Defensa/23
+Eslovaquia/Martin Skrtel/Defensa/25
+Eslovaquia/Marek Cech/Defensa/27
+Eslovaquia/Radoslav Zabavnik/Defensa/29
+Eslovaquia/Zdenko Strba/Centrocampista/33
+Eslovaquia/Vladimir Weiss/Centrocampista/20
+Eslovaquia/Jan Kozak/Centrocampista/30
+Eslovaquia/Stanislav Sestak/Delantero/27
+Eslovaquia/Marek Sapara/Centrocampista/27
+Eslovaquia/Robert Vittek/Delantero/28
+Eslovaquia/Dusan Pernis/Portero/25
+Eslovaquia/Filip Holosko/Delantero/26
+Eslovaquia/Martin Jakubko/Delantero/30
+Eslovaquia/Miroslav Stoch/Centrocampista/20
+Eslovaquia/Jan Durica/Defensa/28
+Eslovaquia/Marek Hamsik/Centrocampista/22
+Eslovaquia/Erik Jendrisek/Delantero/23
+Eslovaquia/Juraj Kucka/Centrocampista/23
+Eslovaquia/Kamil Kopunek/Centrocampista/26
+Eslovaquia/Kornel Salata/Defensa/25
+Eslovaquia/Martin Petras/Defensa/30
+Eslovaquia/Dusan Kuciak/Portero/25

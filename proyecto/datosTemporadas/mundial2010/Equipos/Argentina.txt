@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Argentina/Diego Pozo/Portero/200
+Argentina/Martin Demichelis/Defensa/200
+Argentina/Clemente Rodriguez/Defensa/200
+Argentina/Nicolas Burdisso/Defensa/200
+Argentina/Mario Bolatti/Centrocampista/200
+Argentina/Gabriel Heinze/Defensa/200
+Argentina/Angel Di Maria/Centrocampista/200
+Argentina/Juan Veron/Centrocampista/200
+Argentina/Gonzalo Higuain/Delantero/200
+Argentina/Lionel Messi/Delantero/200
+Argentina/Carlos Tevez/Delantero/200
+Argentina/Ariel Garce/Defensa/200
+Argentina/Walter Samuel/Defensa/200
+Argentina/Javier Mascherano/Centrocampista/200
+Argentina/Nicolas Otamendi/Defensa/200
+Argentina/Sergio Aguero/Delantero/200
+Argentina/Jonas Gutierrez/Centrocampista/200
+Argentina/Martin Palermo/Delantero/200
+Argentina/Diego Milito/Delantero/200
+Argentina/Maximiliano Rodriguez/Centrocampista/200
+Argentina/Mariano Andujar/Portero/200
+Argentina/Sergio Romero/Portero/200
+Argentina/Javier Pastore/Centrocampista/200

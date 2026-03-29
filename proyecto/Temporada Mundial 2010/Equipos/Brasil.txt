@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Brasil/Julio Cesar/Portero/30
+Brasil/Maicon/Defensa/28
+Brasil/Lucio/Defensa/32
+Brasil/Juan/Defensa/31
+Brasil/Felipe Melo/Centrocampista/26
+Brasil/Michel Bastos/Defensa/26
+Brasil/Elano/Centrocampista/28
+Brasil/Gilberto Silva/Centrocampista/33
+Brasil/Luis Fabiano/Delantero/29
+Brasil/Kaka/Centrocampista/28
+Brasil/Robinho/Delantero/26
+Brasil/Gomes/Portero/29
+Brasil/Dani Alves/Defensa/27
+Brasil/Luisao/Defensa/29
+Brasil/Thiago Silva/Defensa/25
+Brasil/Gilberto Melo/Defensa/34
+Brasil/Josue/Centrocampista/30
+Brasil/Ramires/Centrocampista/23
+Brasil/Julio Baptista/Centrocampista/28
+Brasil/Kleberson/Centrocampista/30
+Brasil/Nilmar/Delantero/25
+Brasil/Doni/Portero/30
+Brasil/Grafite/Delantero/31

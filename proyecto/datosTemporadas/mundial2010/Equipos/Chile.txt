@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Chile/Claudio Bravo/Portero/100
+Chile/Ismael Fuentes/Defensa/100
+Chile/Waldo Ponce/Defensa/100
+Chile/Mauricio Isla/Defensa/100
+Chile/Pablo Contreras/Defensa/100
+Chile/Carlos Carmona/Centrocampista/100
+Chile/Alexis Sanchez/Delantero/100
+Chile/Arturo Vidal/Centrocampista/100
+Chile/Humberto Suazo/Delantero/100
+Chile/Jorge Valdivia/Centrocampista/100
+Chile/Mark Gonzalez/Delantero/100
+Chile/Miguel Pinto/Portero/100
+Chile/Marco Estrada/Centrocampista/100
+Chile/Matias Fernandez/Centrocampista/100
+Chile/Jean Beausejour/Delantero/100
+Chile/Fabian Orellana/Delantero/100
+Chile/Gary Medel/Defensa/100
+Chile/Gonzalo Jara/Defensa/100
+Chile/Gonzalo Fierro/Centrocampista/100
+Chile/Rodrigo Millar/Centrocampista/100
+Chile/Rodrigo Tello/Centrocampista/100
+Chile/Esteban Paredes/Delantero/100
+Chile/Luis Marin/Portero/100

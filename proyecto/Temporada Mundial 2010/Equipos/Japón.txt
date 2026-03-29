@@ -1,0 +1,24 @@
+País/Nombre/Posición/Edad
+Japón/Seigo Narazaki/Portero/34
+Japón/Yuki Abe/Centrocampista/28
+Japón/Yuichi Komano/Defensa/28
+Japón/Marcus Tulio Tanaka/Defensa/29
+Japón/Yuto Nagatomo/Defensa/23
+Japón/Atsuto Uchida/Defensa/22
+Japón/Yasuhito Endo/Centrocampista/30
+Japón/Daisuke Matsui/Centrocampista/29
+Japón/Shinji Okazaki/Delantero/24
+Japón/Shunsuke Nakamura/Centrocampista/31
+Japón/Keiji Tamada/Delantero/30
+Japón/Kisho Yano/Delantero/26
+Japón/Daiki Iwamasa/Defensa/28
+Japón/Kengo Nakamura/Centrocampista/29
+Japón/Yasuyuki Konno/Defensa/27
+Japón/Yoshito Okubo/Delantero/27
+Japón/Makoto Hasebe/Centrocampista/26
+Japón/Keisuke Honda/Centrocampista/23
+Japón/Takayuki Morimoto/Delantero/22
+Japón/Junichi Inamoto/Centrocampista/30
+Japón/Eiji Kawashima/Portero/27
+Japón/Yuji Nakazawa/Defensa/32
+Japón/Yoshikatsu Kawaguchi/Portero/34

@@ -1,0 +1,24 @@
+País/Nombre/Posición/Precio
+Inglaterra/David James/Portero/100
+Inglaterra/Glen Johnson/Defensa/100
+Inglaterra/Ashley Cole/Defensa/100
+Inglaterra/Steven Gerrard/Centrocampista/100
+Inglaterra/Rio Ferdinand/Defensa/100
+Inglaterra/John Terry/Defensa/100
+Inglaterra/Aaron Lennon/Centrocampista/100
+Inglaterra/Frank Lampard/Centrocampista/100
+Inglaterra/Peter Crouch/Delantero/100
+Inglaterra/Wayne Rooney/Delantero/100
+Inglaterra/Joe Cole/Centrocampista/100
+Inglaterra/Robert Green/Portero/100
+Inglaterra/Stephen Warnock/Defensa/100
+Inglaterra/Gareth Barry/Centrocampista/100
+Inglaterra/Matthew Upson/Defensa/100
+Inglaterra/James Milner/Centrocampista/100
+Inglaterra/Shaun Wright-Phillips/Centrocampista/100
+Inglaterra/Jamie Carragher/Defensa/100
+Inglaterra/Jermain Defoe/Delantero/100
+Inglaterra/Ledley King/Defensa/100
+Inglaterra/Emile Heskey/Delantero/100
+Inglaterra/Michael Carrick/Centrocampista/100
+Inglaterra/Joe Hart/Portero/100

@@ -1,0 +1,44 @@
+Fernando Muslera
+Diego Lugano
+Diego Godin
+Jorge Fucile
+Maximiliano Pereira
+Martin Caceres
+Diego Perez
+Egidio Arevalo
+Edinson Cavani
+Luis Suarez
+Diego Forlan
+Walter Gargano
+Sebastian Abreu
+Hans Joerg Butt
+Arne Friedrich
+Dennis Aogo
+Per Mertesacker
+Boateng Jerome
+Marcell Jansen
+Sami Khedira
+Bastian Schweinsteiger
+Mesut Oezil
+Thomas Muller
+Cacau
+Serdar Tasci
+Stefan Kiebling
+Toni Kroos
+*
+07/10/2010 13:30-92-< Uruguay:2 vs Alemania:3 >
+Minuto:Acción:Jugador(es):Equipo
+4:Amarilla:Dennis Aogo:Alemania
+6:Amarilla:Cacau:Alemania
+18:Gol:Thomas Muller:Alemania
+27:Gol:Edinson Cavani:Uruguay
+50:Gol:Diego Forlan:Uruguay
+55:Gol:Marcell Jansen:Alemania
+60:Amarilla:Diego Perez:Uruguay
+72:Sustitución:Stefan Kiebling,Cacau:Alemania
+76:Sustitución:Walter Gargano,Diego Perez:Uruguay
+80:Sustitución:Toni Kroos,Marcell Jansen:Alemania
+81:Gol:Sami Khedira:Alemania
+88:Sustitución:Sebastian Abreu,Edinson Cavani:Uruguay
+90:Sustitución:Serdar Tasci,Mesut Ozil:Alemania
+92:Amarilla:Arne Friedrich:Alemania

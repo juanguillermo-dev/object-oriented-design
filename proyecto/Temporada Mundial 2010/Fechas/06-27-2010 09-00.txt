@@ -1,0 +1,46 @@
+Manuel Neuer,
+Arne Friedrich,
+Philipp Lahm,
+Per Mertesacker,
+Jerome Boateng,
+Sami Khedira,
+Bastian Schweinsteiger,
+Mesut Ozil,
+Thomas Muller,
+Lukas Podolski,
+Miroslav Klose,
+Stefan Kiebling,
+Piotr Trochowski,
+Mario Gomez,
+David James,
+Glen Johnson,
+Ashley Cole,
+John Terry,
+Matthew Upson,
+Steven Gerrard,
+Frank Lampard,
+Gareth Barry,
+James Milner,
+Wayne Rooney,
+Jermain Defoe,
+Joe Cole,
+Shaun Wright-Phillips,
+Emile Heskey
+*
+____________________________________________________________________________________________________
+06/27/2010 09:00 < Alemania:4 vs Inglaterra:1 >
+Minuto:Acción:Jugador(es):Equipo
+19:Gol:Miroslav Klose:Alemania
+31:Gol:Lukas Podolski:Alemania
+36:Gol:Matthew Upson:Inglaterra
+46:Amarilla:Arne Friedrich:Alemania
+63:Sustitución:Joe Cole,James Milner:Inglaterra
+66:Gol:Thomas Muller:Alemania
+69:Gol:Thomas Muller:Alemania
+70:Sustitución:Emile Heskey,Jermain Defoe:Inglaterra
+71:Sustitución:Piotr Trochowski,Thomas Muller:Alemania
+71:Sustitución:Mario Gomez,Miroslav Klose:Alemania
+81:Amarilla:Glen Johnson:Inglaterra
+82:Sustitución:Stefan Kiebling,Mesut Ozil:Alemania
+86:Sustitución:Shaun Wright-Phillips,Glen Johnson:Inglaterra
+____________________________________________________________________________________________________
